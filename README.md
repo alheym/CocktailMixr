@@ -1,3 +1,5 @@
+![vue](https://img.shields.io/github/languages/top/alheym/CocktailMixr?style=flat-square&color=%2325c2a0)
+
 # CocktailMixr
 A web application that provides the user with the ability to find cocktails based on available ingredients and select random recipes. Using a database of cocktails and ingredients, the app provides a search and filter feature and generates random recipes for those who want to experiment with new flavors.
 
